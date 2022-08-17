@@ -2,7 +2,7 @@
 
 ## HawkEye (web and mobile)
 
-This is one or our core public-facing systems. It is a Geospatial based system enabling farmers to manage their farm data, order soil nutrients and carry out reporting and analysis to make better decisions.
+This is one of our core public-facing systems. It is a Geospatial based system enabling farmers to manage their farm data, order soil nutrients and carry out reporting and analysis to make better decisions.
 
 Visit [www.hawkeye.farm](https://www.hawkeye.farm) for more information, or visit our [HawkEye YouTube Channel](https://www.youtube.com/channel/UCtVoOFPRaH2iOPxqZq4DhGg)
 
