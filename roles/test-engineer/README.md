@@ -16,7 +16,7 @@
  - Problem solving
  
 ## Our testing tech stack
-We are always open to trying new testing technology, here is what we are using currently.
+We are always open to trying new testing technologies, here is what we are using currently.
  - Protractor (Website testing)
  - Postman (API Testing)
  - Appium (Mobile app testing)
@@ -25,6 +25,6 @@ We are always open to trying new testing technology, here is what we are using c
  - Playwright (Protractor replacement)
  - JMeter (Performance testing)
  - GitHub (Source control)
- - Visual Studio 2022 and Code (Writing and compiling code)
+ - Visual Studio 2022 and VS Code (Writing and compiling code)
  - JIRA (Story and Bug tracking)
  - Confluence (processes and documentation)
