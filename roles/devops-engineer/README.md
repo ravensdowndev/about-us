@@ -29,7 +29,7 @@ Our DevOps team is agile enough to wear many technical hats simultaneously, comb
  - Staying on top of industry best practices and trends
  
 ## Commonly used technologies
-We are always open to trying new technology, here is some common things we use currently.
+We are always open to trying new technologies, here are some common things we use currently:
  - Jenkins (CI/CD)
  - Postman (API Testing)
  - Qualys (security)
