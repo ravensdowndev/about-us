@@ -1,4 +1,4 @@
-# As a Software Engineer
+# Software Engineer
 
 ## Projects and technologies
 - Websites and mobile apps
@@ -24,7 +24,7 @@
 - Passion to leaning
 
 ## Our development tech stack
-We are always open to trying new software technology, here is what we are using currently.
+We are always open to trying new software technologies, here is what we are using currently:
 - .Net Framework and .Net core (C#)
 - Python
 - JavaScript, TypeScript
