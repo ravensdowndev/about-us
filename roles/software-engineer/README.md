@@ -21,7 +21,7 @@
 - Analytical thinking
 - Self-directed worker
 - Problem solving
-- Passion to leaning
+- Passion to learning
 
 ## Our development tech stack
 We are always open to trying new software technologies, here is what we are using currently:
